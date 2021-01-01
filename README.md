@@ -3,3 +3,4 @@ Két szabadságfokú, nemkonzervatív rezgőrendszer stabilitásának vizsgálat
 Konzulens: Dr. Szabó Zsolt<br />
 Munkapéldány<br />
 
+### Vizsgált probléma
