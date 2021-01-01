@@ -1,5 +1,5 @@
 # Rezgo-rendszer-stabilitas
-Két szabadságfokú, nemkonzervatív rezgőrendszer stabilitásának vizsgálata. \\
-Konzulens: Dr. Szabó Zsolt\\
-Munkapéldány\\
+Két szabadságfokú, nemkonzervatív rezgőrendszer stabilitásának vizsgálata. <br />
+Konzulens: Dr. Szabó Zsolt<br />
+Munkapéldány<br />
 
